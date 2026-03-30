@@ -1,0 +1,231 @@
+<%- partial('_partial/head') %>
+
+<style>
+  /* About Page Styles */
+  .about-page {
+    padding-top: 100px;
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+  }
+
+  .about-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 40px;
+  }
+
+  .about-header {
+    text-align: center;
+    padding: 60px 0 40px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 60px;
+  }
+
+  .about-title {
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+  }
+
+  .about-subtitle {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.8;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .about-section {
+    margin-bottom: 60px;
+  }
+
+  .about-section-title {
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+  }
+
+  .about-section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 60px;
+    height: 2px;
+    background-color: #007bff;
+  }
+
+  .about-content p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.85);
+    margin-bottom: 15px;
+  }
+
+  .about-content h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 30px 0 15px;
+    letter-spacing: 1px;
+  }
+
+  .interests-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .interest-item {
+    margin-bottom: 20px;
+    padding-left: 20px;
+    position: relative;
+  }
+
+  .interest-item::before {
+    content: '▹';
+    position: absolute;
+    left: 0;
+    color: #007bff;
+    font-size: 20px;
+  }
+
+  .interest-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #fff;
+  }
+
+  .interest-desc {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.6;
+  }
+
+  .works-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  .work-preview {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding: 25px;
+    transition: all 0.3s ease;
+  }
+
+  .work-preview:hover {
+    border-color: #007bff;
+    transform: translateY(-5px);
+    background-color: rgba(255, 255, 255, 0.08);
+  }
+
+  .work-preview h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #fff;
+  }
+
+  .work-preview p {
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  .contact-section {
+    text-align: center;
+    padding: 60px 0;
+    background-color: rgba(255, 255, 255, 0.02);
+    border-radius: 8px;
+    margin-top: 60px;
+  }
+
+  .contact-section h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+
+  .contact-section p {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  .social-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all 0.3s ease;
+  }
+
+  .social-link:hover {
+    border-color: #007bff;
+    color: #007bff;
+    transform: scale(1.1);
+  }
+
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .about-container {
+      padding: 0 20px;
+    }
+
+    .about-header {
+      padding: 40px 0 30px;
+    }
+
+    .about-title {
+      font-size: 32px;
+    }
+
+    .about-subtitle {
+      font-size: 16px;
+    }
+
+    .works-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .social-links {
+      gap: 20px;
+    }
+  }
+</style>
+
+<main class="about-page">
+  <div class="about-container">
+    <div class="about-header">
+      <h1 class="about-title">About</h1>
+      <p class="about-subtitle">Exploring the intersection of technology, art, and human experience through interactive installations, audio-visual works, and AI-driven systems.</p>
+    </div>
+
+    <div class="about-content">
+      <%- page.content %>
+    </div>
+  </div>
+</main>
+
+<%- partial('_partial/footer') %>

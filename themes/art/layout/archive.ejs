@@ -1,0 +1,42 @@
+<%- partial('_partial/head') %>
+
+<div class="container">
+  <div class="archive">
+    <h1 class="archive-title">
+      <% if (page.year) { %>
+      <%= page.year %>
+      <% if (page.month) { %> - <%= page.month %>
+      <% } %>
+      <% } else { %>
+      <%= __('archive') %>
+      <% } %>
+    </h1>
+    <div class="archive-posts">
+      <% page.posts.each(function(post) { %>
+      <article class="archive-post">
+        <div class="archive-post-header">
+          <h2 class="archive-post-title">
+            <a href="/<%= post.path %>" class="archive-post-title-link"><%= post.title %></a>
+          </h2>
+          <div class="archive-post-meta">
+            <span class="archive-post-date"><%= post.date.format('YYYY-MM-DD') %></span>
+          </div>
+        </div>
+      </article>
+      <% }); %>
+    </div>
+
+    <% if (page.total > 1) { %>
+    <nav class="pagination">
+      <% if (page.prev) { %>
+      <a href="/<%= page.prev %>"><%= theme.pagination.prev_text %></a>
+      <% } %>
+      <% if (page.next) { %>
+      <a href="/<%= page.next %>"><%= theme.pagination.next_text %></a>
+      <% } %>
+    </nav>
+    <% } %>
+  </div>
+</div>
+
+<%- partial('_partial/footer') %>

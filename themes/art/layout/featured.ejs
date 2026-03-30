@@ -1,0 +1,24 @@
+<!-- Featured Section -->
+<section class="featured-section">
+  <div class="featured-image" style="<% if (page.index_img) { %>--bg-image: url('<%= page.index_img %>');<% } else if (page.thumbnail) { %>--bg-image: url('<%= page.thumbnail %>');<% } else { %>--bg-image: url('/img/00.png');<% } %>">
+    <div class="featured-content">
+      <% if (page.categories && page.categories.length) { %>
+      <div class="featured-category">
+        <% page.categories.each(function(category) { %>
+        <a href="/<%= category.path %>" class="featured-category-link"><%= category.name %></a>
+        <% }); %>
+      </div>
+      <% } %>
+      <h1 class="featured-title"><%= page.title %></h1>
+      <% if (page.description) { %>
+      <p class="featured-description"><%= page.description %></p>
+      <% } %>
+      <div class="featured-meta">
+        <span class="featured-date">发表于 <%= page.date.format('YYYY-MM-DD') %></span>
+        <% if (page.updated && page.updated !== page.date) { %>
+        <span class="featured-updated">更新于 <%= page.updated.format('YYYY-MM-DD') %></span>
+        <% } %>
+      </div>
+    </div>
+  </div>
+</section>
