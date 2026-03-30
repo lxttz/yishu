@@ -3,7 +3,7 @@ title: About
 date: 2026-03-11 00:00:00
 ---
 
-## About XING CHENGMING
+## About CHEN ANQI
 
 Xing Chengming is an artist and researcher exploring the intersection of technology, art, and human experience. Through interactive installations, audio-visual works, and AI-driven systems, the practice investigates contemporary questions about memory, identity, and perception.
 
