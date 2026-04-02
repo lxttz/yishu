@@ -8,13 +8,13 @@ index_img: https://img.cdn1.vip/i/69ce782e6c9c3_1775138862.webp
 tags:
 - text
 title: title
-updated: '2026-04-02T23:05:52.187+08:00'
+updated: '2026-04-02T23:08:32.353+08:00'
 ---
 图片
 
 图片格式:
 
-![图片描述](图片链接)
+![图片描述](https://img.cdn1.vip/i/69ce8685eff70_1775142533.webp))
 
 这是使用图床上传使用的效果：（https://img.scdn.io/）
 
