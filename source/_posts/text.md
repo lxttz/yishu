@@ -1,14 +1,16 @@
 ---
-abbrlink: ''
+abbrlink: Virtual Performances
 categories:
-- - text
-date: '2026-04-02T22:46:15.403971+08:00'
+- - Video
+- - Performance
+date: '2024'
 description: 描述内容
 index_img: https://img.cdn1.vip/i/69ce782e6c9c3_1775138862.webp
 tags:
-- text
-title: title
-updated: '2026-04-02T23:08:32.353+08:00'
+- Video
+- Performance
+title: 'Virtual Performances: Navigating Cyborg Protection in the Metaverse'
+updated: '2025'
 ---
 图片
 
