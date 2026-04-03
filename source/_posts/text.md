@@ -26,4 +26,6 @@ Inspired by the weird wriggling of geckos before their tails break off when they
 
 This means the recovery of virtual trauma can be quick, stumbling, enlightening, and has the possibilities for reconstitution including the utopian dream of building a monstrous world without gender, accompanied by the sampling in the perspective of biology. 
 
+
+
 Performance Video Link: https://vimeo.com/940548384?share=copy
