@@ -10,7 +10,7 @@ tags:
 - Video
 - Performance
 title: Navigating Cyborg Protection in the Metaverse
-updated: '2026-04-03T17:21:28.804+08:00'
+updated: '2026-04-03T21:10:03.312+08:00'
 ---
 ![图片描述](https://img.cdn1.vip/i/69cf7afc09e02_1775205116.webp)
 
@@ -22,4 +22,4 @@ Inspired by the weird wriggling of geckos before their tails break off when they
 
 This means the recovery of virtual trauma can be quick, stumbling, enlightening, and has the possibilities for reconstitution including the utopian dream of building a monstrous world without gender, accompanied by the sampling in the perspective of biology. 
 
-Performance Video Link: https://vimeo.com/940548384?share=copy
+Performance: https://vimeo.com/940548384?share=copy
