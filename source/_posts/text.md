@@ -5,14 +5,14 @@ categories:
 - - Performance
 date: '2024'
 description: Virtual Performances
-index_img: https://img.cdn1.vip/i/69cf77312505c_1775204145.webp
+index_img: https://img.cdn1.vip/i/69cf7a1835d55_1775204888.webp
 tags:
 - Video
 - Performance
 title: Navigating Cyborg Protection in the Metaverse
 updated: '2025'
 ---
-![图片描述](https://img.cdn1.vip/i/69cf73130a8de_1775203091.webp)
+![图片描述](https://img.cdn1.vip/i/69cf77312505c_1775204145.webp)
 
 
 
