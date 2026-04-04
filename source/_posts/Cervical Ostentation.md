@@ -4,7 +4,7 @@ categories:
 - - Installation
 date: '2023'
 description: Arduino Wearable
-index_img: https://img.cdn1.vip/i/69cfbacdafbbd_1775221453.webp
+index_img: https://img.cdn1.vip/i/69d1166322c3c_1775310435.webp
 tags:
 - Installation
 title: Cervical Ostentation
