@@ -3,10 +3,12 @@ abbrlink: ''
 categories:
 - - Interactive
 - - Installation
+- - Sound
 date: '2023'
 description: P5.js  Visual Installation
 index_img: https://img.cdn1.vip/i/69d0c1ffadba3_1775288831.webp
-tags: []
+tags:
+- Sound
 title: Random narrative
 updated: '2024'
 ---
@@ -15,3 +17,5 @@ updated: '2024'
 This project selects the Chinese community studying abroad to explore how the past between the group and the individual has changed, and the "time" of itself "overseas" has become a medium for exploring the identity construction of the individual, globalization and cultural dispersion in modern society.
 
 ![图片描述](https://img.cdn1.vip/i/69d0c40f8c60b_1775289359.webp)
+
+![图片描述](https://img.cdn1.vip/i/69d0c501aac2b_1775289601.webp)
