@@ -25,3 +25,8 @@ Wrapped in a digital footprint where images, words, traces of everything are pre
 
 
 Everywhere we go, we leave behind sound, which is invisible yet ever present. When sound traces are visualised, the viewer can become more immersed in the traces that are always there, hidden and difficult to detect. We are amazed to find that every sliver of that viscous web traces our footprints, and that even our liminal areas are locked in a deadlock with no escape.
+
+![图片描述](https://img.cdn1.vip/i/69d0ffe33d8fd_1775304675.webp)
+
+
+![图片描述](https://img.cdn1.vip/i/69d1007a4a5a0_1775304826.webp)
