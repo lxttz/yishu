@@ -18,4 +18,6 @@ This game interested in exploring the immersive experience of different perspect
 
 ![图片描述](https://img.cdn1.vip/i/69cf8b129a263_1775209234.webp)
 
-![图片描述](https://img.cdn1.vip/i/69cf8c3170d51_1775209521.webp)
+![图片描述](https://img.cdn1.vip/i/69d11acc460e1_1775311564.webp)
+
+![图片描述](https://img.cdn1.vip/i/69d11a9f543b2_1775311519.webp)
