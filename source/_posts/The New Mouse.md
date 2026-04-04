@@ -19,3 +19,19 @@ Mosuo people are engaged in performance day and night and can’t distinguish be
 ![图片描述](https://img.cdn1.vip/i/69d1111115564_1775309073.webp)
 
 ![图片描述](https://img.cdn1.vip/i/69d111a8cadf7_1775309224.webp)
+
+Unknown identities, ever-changing nationalities, and distorted perceptions of Mosuo cultures have made them lose their belongings.
+
+![图片描述](图片链接)
+
+![图片描述](图片链接)
+
+![图片描述](图片链接)
+
+The honk of the migrating birds drives them away from their land, and invaders begin to creep into their territory. They have to shift to a new place. Is it a fresh start for them?
+
+![图片描述](图片链接)
+
+![图片描述](图片链接)
+
+![图片描述](图片链接)
