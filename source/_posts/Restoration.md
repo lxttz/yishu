@@ -2,6 +2,7 @@
 abbrlink: ''
 categories:
 - - ' Video'
+- - VR
 date: '2025'
 description: VR Interactive Experience
 index_img: https://img.cdn1.vip/i/69d211adb53b2_1775374765.webp
