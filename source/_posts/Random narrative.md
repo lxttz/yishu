@@ -10,7 +10,7 @@ index_img: https://img.cdn1.vip/i/69d0c1ffadba3_1775288831.webp
 tags:
 - Sound
 title: Random narrative
-updated: '2024'
+updated: '2026-04-05T18:20:50.889+08:00'
 ---
 ![图片描述](https://img.cdn1.vip/i/69d0c26bdec4e_1775288939.webp)
 
