@@ -17,7 +17,8 @@ In the face of the violence that the world currently confronts, finding effectiv
 
 ![图片描述](https://img.cdn1.vip/i/69d2142295fdb_1775375394.webp)
 
-![图片描述](图片链接)
+![图片描述](https://img.cdn1.vip/i/69d21663ed6fd_1775375971.webp)
+
 
 ![图片描述](图片链接)
 
