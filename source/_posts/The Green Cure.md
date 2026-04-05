@@ -12,6 +12,8 @@ updated: '2025'
 ---
 Demand for conductive metal has increased as the world shifts to wind energy and electric cars. But mining copper brings its environmental hazards. As Polygonum microcephalum roots can absorb copper in the soil, it began to explore how to improve the absorption efficiency. It applied cybernetics to the project and designed a root regulator to control the density and direction of plant roots, hoping to help make breakthroughs in plant management. It use an installation to portray copper pollution control, hoping to arouse the world’s awareness of environmental protection.
 
+https://youtu.be/d91Bu1o6jpw
+
 ![图片描述](https://img.cdn1.vip/i/69d2038708d95_1775371143.webp)
 
 
