@@ -5,7 +5,7 @@ categories:
 - - Video
 date: '2024'
 description: Control Installation
-index_img: https://img.cdn1.vip/i/69d208fa46f7c_1775372538.webp
+index_img: https://img.cdn1.vip/i/69d20ab03c79a_1775372976.webp
 tags: []
 title: The Green Cure
 updated: '2026-04-05T14:59:22.088+08:00'
