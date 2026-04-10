@@ -3,7 +3,7 @@ abbrlink: ''
 categories:
 - - Performance
 - - Video
-date: '2024'
+date: '2024-02-04'
 description: Virtual Performances
 index_img: https://img.cdn1.vip/i/69cf7a1835d55_1775204888.webp
 tags:
