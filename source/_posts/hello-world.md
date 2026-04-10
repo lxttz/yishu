@@ -2,10 +2,11 @@
 abbrlink: ''
 categories: []
 date: ''
-index_img: https://img.cdn1.vip/i/69cfbbd4d57fc_1775221716.jpg
+description: website building
+index_img: https://img.cdn1.vip/i/69d8f47263b66_1775826034.webp
 tags: []
 title: Hello World
-updated: '2026-04-03T21:09:35.335+08:00'
+updated: '2026-04-10T21:02:29.972+08:00'
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
