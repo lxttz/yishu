@@ -4,13 +4,13 @@ categories:
 - - Interactive
 - - Installation
 - - Sound
-date: '2023'
+date: '2023-09-21'
 description: P5.js  Visual Installation
 index_img: https://img.cdn1.vip/i/69d0c1ffadba3_1775288831.webp
 tags:
 - Sound
 title: Random narrative
-updated: '2026-04-05T18:20:50.889+08:00'
+updated: '2026-04-10T19:01:47.760+08:00'
 ---
 ![图片描述](https://img.cdn1.vip/i/69d0c26bdec4e_1775288939.webp)
 
