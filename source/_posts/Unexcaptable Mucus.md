@@ -3,12 +3,12 @@ abbrlink: ''
 categories:
 - - Sound
 - - Installation
-date: '2023'
+date: '2023-10-15'
 description: Image and Sound Installation
 index_img: https://img.cdn1.vip/i/69d0ce8a9ba85_1775292042.webp
 tags: []
 title: Unexcaptable Mucus
-updated: '2026-04-05T18:20:07.156+08:00'
+updated: '2026-04-10T19:04:41.811+08:00'
 ---
 The convenience of the internet has made us less and less willing to disclose all of our lives, as we update our social platforms less and less, change our accounts constantly, and have our friends visible for only three days. Being told that people who have been disconnected for a long time are still finding ways to rape my life on the internet, while people couldn't understand their behaviour, it started to think about the underlying motivation - is the internet like a huge web enveloping us or is it a spider-like group spitting out silk and weaving a web to catch its prey with precision? 
 
