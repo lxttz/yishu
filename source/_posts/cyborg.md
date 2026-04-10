@@ -2,14 +2,13 @@
 abbrlink: ''
 categories:
 - - Performance
-- - Video
 date: '2024-02-04'
 description: Virtual Performances
 index_img: https://img.cdn1.vip/i/69cf7a1835d55_1775204888.webp
 tags:
 - Performance
 title: Navigating Cyborg Protection in the Metaverse
-updated: '2026-04-10T18:57:46.417+08:00'
+updated: '2026-04-10T20:47:31.477+08:00'
 ---
 ![图片描述](https://img.cdn1.vip/i/69cf7afc09e02_1775205116.webp)
 
